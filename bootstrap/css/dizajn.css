@@ -1,0 +1,53 @@
+body{
+    margin-top: 30px;
+    
+	#dad5d5;
+}
+
+#main > :first-child{
+	margin-top: 30px;
+}
+
+.logo2 {
+    font-size: 32px;
+    color: green;
+    margin: 0 auto;
+}
+div#3ee {
+	
+	 font-size: 32px;
+    color: green;
+    margin: 0 auto;
+}
+span.trt {
+    margin: 2px;
+    margin-top: -9px;
+    line-height: 15px;
+    float: right;
+    border-radius: 2px;
+}
+span.trt1 {
+     margin: 2px;
+    float: left;
+    border-radius: 2px;
+    margin-bottom: 20px;
+}
+img.img-responsive.img-thumbnail {
+     width: 260px;
+    height: 340px;
+    margin-bottom: 20px;
+	
+}
+tr {
+    border-bottom: 1px solid #b7cbd8;
+}
+span.trt input[type="submit"] {
+    min-width: 160px;
+}
+.crv {
+    background: #588fb3;
+    text-align: center;
+    color: #6f0303;
+    border-radius: 3px;
+    font-size: 18px;
+}
